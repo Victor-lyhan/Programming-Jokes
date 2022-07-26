@@ -11,6 +11,7 @@
 		6804ADEA289044CE00A7012D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6804ADE9289044CE00A7012D /* ContentView.swift */; };
 		6804ADEC289044CF00A7012D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6804ADEB289044CF00A7012D /* Assets.xcassets */; };
 		6804ADEF289044CF00A7012D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6804ADEE289044CF00A7012D /* Preview Assets.xcassets */; };
+		6804ADF628904C4A00A7012D /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6804ADF528904C4A00A7012D /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		6804ADE9289044CE00A7012D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6804ADEB289044CF00A7012D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6804ADEE289044CF00A7012D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6804ADF528904C4A00A7012D /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				6804ADE7289044CE00A7012D /* Programming_JokesApp.swift */,
 				6804ADE9289044CE00A7012D /* ContentView.swift */,
 				6804ADEB289044CF00A7012D /* Assets.xcassets */,
+				6804ADF528904C4A00A7012D /* SwiftyJSON.swift */,
 				6804ADED289044CF00A7012D /* Preview Content */,
 			);
 			path = "Programming Jokes";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6804ADF628904C4A00A7012D /* SwiftyJSON.swift in Sources */,
 				6804ADEA289044CE00A7012D /* ContentView.swift in Sources */,
 				6804ADE8289044CE00A7012D /* Programming_JokesApp.swift in Sources */,
 			);
